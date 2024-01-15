@@ -1,5 +1,5 @@
-# import json
-# from src.models.history_model import HistoryModel
+import json
+from src.models.history_model import HistoryModel
 
 
 # Req. 7
